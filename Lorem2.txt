@@ -8,8 +8,6 @@ sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   cillum dolore eu fugiat nulla
   pariatur.
 
+Riga nuova Lorem2
 
-Modifica1 branch
-
-
-
+Modifica branch modifica2
